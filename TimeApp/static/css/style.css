@@ -1,0 +1,22 @@
+p {
+    color: whitesmoke;
+  }
+
+h5 {
+    color: black;
+  }
+
+h1 {
+    color: orangered;
+}  
+
+h2 {
+    color: black;
+    font-size: 22px;
+}
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
