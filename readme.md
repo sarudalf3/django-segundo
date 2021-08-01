@@ -2,7 +2,7 @@
 
 In this exercise I displayed the time and date using different tools.
 
-The App name isn TimeApp.
+The App name is TimeApp.
 
 - In /root/ you'll figure out the static time and date using Python functions.
 - In /root/time_display/ you'll figure out the same, but the HTML template was created using css and bootstrap tools.
